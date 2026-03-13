@@ -23,6 +23,6 @@ volumes:
 #   driver: local
     driver_opts:
       type: none
-      device: /path/to/idol-ingest/bind
+      device: /mnt/c/IDOL/hotfolder
       o: bind
 
